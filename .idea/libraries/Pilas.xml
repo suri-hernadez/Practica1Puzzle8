@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Pilas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../pilas/out/artifacts/Pilas_jar/Pilas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
